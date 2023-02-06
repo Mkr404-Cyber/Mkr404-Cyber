@@ -1,8 +1,3 @@
-
-
-
-
-
 <p align="center"><img src="https://img.shields.io/badge/I Am %20A BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
  
 <h3 align="center">
@@ -17,7 +12,10 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-
+<p align="center"> 
+ 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+ <img src="https://profile-counter.glitch.me/Mkr404-Cyber/count.svg" />
+</p>
 
 > MY PROFILE VISITORS :
 - ![Profile views](https://gpvc.arturio.dev/Mkr404-Cyber)
